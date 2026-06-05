@@ -1,0 +1,20 @@
+# Maven
+target/
+*.class
+
+# Banco de dados SQLite (não sobe o arquivo .db)
+*.db
+*.db-shm
+*.db-wal
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# SO
+.DS_Store
+Thumbs.db
